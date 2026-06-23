@@ -157,7 +157,7 @@ All test cases passed successfully.
 
 B.Tech Electronics Engineering (VLSI Design & Technology)
 
-CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar
+CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar(Aurangabad)
 
 ---
 
